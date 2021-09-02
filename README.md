@@ -1,0 +1,2 @@
+# Wordpress-website
+ Il s'agit d'un projet pour ma formation de développeur php. J'ai appris à choisir le bon plugin et à créer un site web entièrement fonctionnel en tenant compte du concept de base de la conception du site web. C'est mon 4ème projet pour ma formation de développeur php. Dans ce projet, j'ai appliqué le concept UML pour concevoir une base de données et apprendre le langage SQL pour l'utilisation des données.
