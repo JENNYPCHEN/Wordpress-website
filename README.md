@@ -1,2 +1,6 @@
 # Wordpress-website
- Il s'agit d'un projet pour ma formation de développeur php. J'ai appris à choisir le bon plugin et à créer un site web entièrement fonctionnel en tenant compte du concept de base de la conception du site web. C'est mon 4ème projet pour ma formation de développeur php. Dans ce projet, j'ai appliqué le concept UML pour concevoir une base de données et apprendre le langage SQL pour l'utilisation des données.
+ <p> This is the 2nd project for my PHP/Symfony course from OpenClassroom. I can create a fully functioned website and a specification for a property company. </p>
+ <h3> Website </h3>
+ <p a href="http://chalets-caviar.chingyipc.com/">http://chalets-caviar.chingyipc.com/ </p>
+ <p> ChingYi P.C </p>
+  <p a href="http://chingyipc.com/">http://chingyipc.com/ </p>
